@@ -31,5 +31,5 @@ This Power BI dashboard visually analyzes the famous **Iris flower dataset**. It
 
 **Paras Chaturvedi**  
 _Aspiring Data Analyst_  
-LinkedIn: [Your LinkedIn Profile]  
-Project by Internshala Data Science Program  
+LinkedIn: (https://www.linkedin.com/in/paraschaturvedi/)
+Project by OASIS-INFOBYTE
